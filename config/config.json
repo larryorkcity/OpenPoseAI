@@ -1,3 +1,7 @@
 {
-Datbase: ""
+  database: ""
+  table: ""
+  user: ""
+  password: ""
+  port: 3306
 }
