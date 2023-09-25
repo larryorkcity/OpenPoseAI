@@ -5,3 +5,11 @@
   password: ""
   port: 3306
 }
+
+{
+  database: "a"
+  table: ""
+  user: ""
+  password: ""
+  port: 3306
+}
